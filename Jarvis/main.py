@@ -55,7 +55,7 @@ def readCommandFromFile(file_path, start_position):
 
 
 if __name__ == "__main__":
-    speak("initializing Alexa.....")
+    speak("initializing Jarvis.....")
     current_position = 0  # Start reading from the beginning initially
     while True:
 
